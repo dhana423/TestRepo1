@@ -3,7 +3,6 @@
   <!-- Begin Default Content REMOVE THIS -->
   <h1>Congratulations</h1>
   Your Accont :
-  Your Accont :
   <apex:outputField value="{!Account.Name}"/>
   <apex:outputField value="{!Account.Phone}"/>
 
