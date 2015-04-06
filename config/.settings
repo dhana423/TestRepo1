@@ -1,0 +1,19 @@
+{
+    "username": "dhana423@gmail.com", 
+    "environment": "developer", 
+    "project_name": "DevOrg", 
+    "workspace": "C:/\\MavenDhana/Mavenworkspace", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "EYHMPAORPRH4HF6GCFVMSQT30H0JYC9D", 
+    "metadata_container": "1dc24000000DcQzAAK", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
