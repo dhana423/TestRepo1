@@ -21,7 +21,12 @@
         "id": "066240000017zTWAAY", 
         "lastModifiedById": "00524000000fRgBAAU", 
         "lastModifiedByName": "dhana lakshmi", 
+<<<<<<< HEAD
         "lastModifiedDate": "2015-04-03 11:22:54", 
+=======
+<<<<<<< HEAD
+        "lastModifiedDate": "2015-04-02 16:35:09", 
+>>>>>>> da473ad83945c5f7fe936c32d13a32f5c03ce54b
         "mmState": "clean", 
         "type": "ApexPage"
     }, 
@@ -35,6 +40,12 @@
         "lastModifiedById": "00524000000fRgBAAU", 
         "lastModifiedByName": "dhana lakshmi", 
         "lastModifiedDate": "2015-04-02 17:01:50", 
+<<<<<<< HEAD
+=======
+=======
+        "lastModifiedDate": "2015-03-19 18:49:03", 
+>>>>>>> 7da313d341ea621d3cd4621543fade967bd459f5
+>>>>>>> da473ad83945c5f7fe936c32d13a32f5c03ce54b
         "mmState": "clean", 
         "type": "ApexPage"
     }, 
