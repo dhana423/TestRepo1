@@ -5,7 +5,7 @@
   Your Accont : 
   <apex:outputField value="{!Account.Name}"/>
   <apex:outputField value="{!Account.Phone}"/>
-
+    Hi..
   </apex:form>
 </apex:page>
 
